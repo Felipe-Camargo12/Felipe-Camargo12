@@ -1,6 +1,11 @@
 ### Olá! Eu sou o Felipe Camargo 👋
 <br>
-
+Sou apaixonado por tecnologia, complexibilidade e inovações! Gosto de planejar, liderar, criar ideias com criatividade.<br/>
+Tenho o Bill Gates como inspiração por persistência, liderança, visão e principalmente trabalhos sociais.  
+<br/><br>
+<div style="">
+	<img src="https://postcron.com/pt/blog/wp-content/uploads/2016/01/Frase-Bill-Gates-1.jpg">
+</div><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-camargo-1208f)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:felipeca1268@gmail.com)
