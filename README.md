@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Felipe Camargo 👋
-Sou apaixonado por tecnologia, complexibilidade e inovações! Gosto de planejar, liderar, criar ideias com criatividade.<br/>
+Sou apaixonado por tecnologia, complexibilidade e inovações! Gosto de planejar, liderar e criar ideias com criatividade.<br/>
 Tenho o Bill Gates como inspiração por persistência, liderança, visão e principalmente trabalhos sociais.  
 <br>
 <div style="">
