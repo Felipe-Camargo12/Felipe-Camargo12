@@ -30,3 +30,5 @@ Tenho o Bill Gates como inspiração por persistência, liderança, visão e pri
 <img align="center" stl="GCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align="center" stl="Office" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
+
+## Em breve: Projetos para portfólio estão em desenvolvimento de forma privada...
