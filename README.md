@@ -6,7 +6,7 @@ Tenho o Bill Gates como inspiração por persistência, liderança, visão e pri
 	<img src="https://postcron.com/pt/blog/wp-content/uploads/2016/01/Frase-Bill-Gates-1.jpg">
 </div><br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-camargo-1208f)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-122-8ca/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:felipeca1268@gmail.com)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=tokyonight)
