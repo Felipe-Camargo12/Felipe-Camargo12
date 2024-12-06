@@ -8,7 +8,6 @@ Tenho o Bill Gates como inspiração por persistência, liderança, visão e pri
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-camargo-1208f)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:felipeca1268@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felpss.12/)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=tokyonight)
 
