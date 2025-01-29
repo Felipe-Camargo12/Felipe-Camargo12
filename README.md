@@ -31,6 +31,10 @@
 
 <h2 align="center">🚀 Tecnologias que eu uso</h2>
 
+<style>
+  .tech-icon, .hover-scale {
+    transition: transform 0.3s ease-in-out;
+  }
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="tech-icon">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" class="tech-icon">
@@ -47,11 +51,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" class="tech-icon">
   <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" class="tech-icon">
 </p>
-
-<style>
-  .tech-icon, .hover-scale {
-    transition: transform 0.3s ease-in-out;
-  }
   .tech-icon:hover, .hover-scale:hover {
     transform: scale(1.1);
   }
