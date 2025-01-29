@@ -5,17 +5,17 @@
 <p align="center"><b>Me inspiro no Bill Gates pela sua persistência, liderança, visão e, principalmente, pelos seus trabalhos sociais.</b></p>
 
 <p align="center">
-  <img src="https://postcron.com/pt/blog/wp-content/uploads/2016/01/Frase-Bill-Gates-1.jpg" alt="Citação de Bill Gates" width="70%" style="border-radius: 8px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://postcron.com/pt/blog/wp-content/uploads/2016/01/Frase-Bill-Gates-1.jpg" alt="Citação de Bill Gates" width="70%" class="hover-scale">
 </p>
 
 ---
 
 <h2 align="center">📫 Contato</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipe-122-8ca/" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://www.linkedin.com/in/felipe-122-8ca/" class="hover-scale">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:felipeca1268@gmail.com" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="mailto:felipeca1268@gmail.com" class="hover-scale">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" class="hover-scale">
 </p>
 
 ---
@@ -49,10 +49,10 @@
 </p>
 
 <style>
-  .tech-icon {
+  .tech-icon, .hover-scale {
     transition: transform 0.3s ease-in-out;
   }
-  .tech-icon:hover {
+  .tech-icon:hover, .hover-scale:hover {
     transform: scale(1.1);
   }
 </style>
