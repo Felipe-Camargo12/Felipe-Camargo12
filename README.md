@@ -1,4 +1,4 @@
-### <h1 align="center"> Olá! Eu sou o Felipe! 👋" /></h1>
+### <h1 align="center"> Olá! Eu sou o Felipe👋</h1>
 
 <p align="center">Sou apaixonado por tecnologia, complexidade e inovações! Gosto de planejar, liderar e criar ideias com criatividade.</p>
 
