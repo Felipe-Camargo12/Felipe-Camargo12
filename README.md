@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/Felipe-Camargo12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Camargo12&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&token=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"/>
 </div>
     
 ---
