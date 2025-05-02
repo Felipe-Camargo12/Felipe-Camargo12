@@ -5,7 +5,7 @@
 <p align="center"><b>Me inspiro no Bill Gates pela sua persistência, liderança, visão e, principalmente, pelos seus trabalhos sociais.</b></p>
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/E3Ok6A-XoAIbwRC.jpg" alt="Citação de Bill Gates" style="height: 400px;  width: 80%;"">
+  <img src="bannermy.jpeg" alt="Citação de Bill Gates" style="height: 400px;  width: 80%;"">
 </p>
 
 ---
