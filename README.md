@@ -1,6 +1,6 @@
 ### <h1 align="center"> Olá! Eu sou o Felipe👋</h1>
 
-<p align="center">Sou movido por tecnologia, inovação e desafios complexos. Tenho paixão por planejar, liderar projetos e transformar ideias criativas em soluções reais.</p>
+<p align="center">Tenho paixão por tecnologia & inovação, planejar, liderar projetos e transformar ideias criativas em soluções reais.</p>
 
 <p align="center"><b>Me inspiro em virtudes como persistência, visão estratégica, liderança e, acima de tudo, no impacto social positivo que podemos gerar através do nosso trabalho.</b></p>
 
