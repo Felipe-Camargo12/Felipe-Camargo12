@@ -5,7 +5,7 @@
 <p align="center"><b>Me inspiro no Bill Gates pela sua persistência, liderança, visão e, principalmente, pelos seus trabalhos sociais.</b></p>
 
 <p align="center">
-  <img src="https://postcron.com/pt/blog/wp-content/uploads/2016/01/Frase-Bill-Gates-1.jpg" alt="Citação de Bill Gates" width="70%" class="hover-scale">
+  <img src="[https://postcron.com/pt/blog/wp-content/uploads/2016/01/Frase-Bill-Gates-1.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpostcron.com%2Fpt%2Fblog%2Ffrases-de-bill-gates-pra-inspirar-o-seu-trabalho%2F&psig=AOvVaw1HsWoNZYCchUzTKsF9Rllr&ust=1746286669811000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDu-vqOhY0DFQAAAAAdAAAAABAK)" alt="Citação de Bill Gates" width="70%" class="hover-scale">
 </p>
 
 ---
