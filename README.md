@@ -1,8 +1,8 @@
 ### <h1 align="center"> Olá! Eu sou o Felipe👋</h1>
 
-<p align="center">Sou apaixonado por tecnologia, complexidade e inovações! Gosto de planejar, liderar e criar ideias com criatividade.</p>
+<p align="center">Sou movido por tecnologia, inovação e desafios complexos. Tenho paixão por planejar, liderar projetos e transformar ideias criativas em soluções reais.</p>
 
-<p align="center"><b>Me inspiro no Bill Gates pela sua persistência, liderança, visão e, principalmente, pelos seus trabalhos sociais.</b></p>
+<p align="center"><b>Me inspiro em virtudes como persistência, visão estratégica, liderança e, acima de tudo, no impacto social positivo que podemos gerar através do nosso trabalho.</b></p>
 
 <p align="center">
   <img src="bannermy.jpeg" alt="Citação de Bill Gates" width="80%" class="hover-scale">
