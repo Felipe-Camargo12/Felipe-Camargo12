@@ -56,9 +56,11 @@ Sou **Desenvolvedor Full Stack +4 anos**, com especialidade em **aplicações we
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Felipe-Camargo12&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais usadas">
+  <img height="170" src="https://raw.githubusercontent.com/Felipe-Camargo12/github-stats/generated/overview.svg" alt="Estatísticas do GitHub (inclui organizações e repositórios privados)">
+  <img height="170" src="https://raw.githubusercontent.com/Felipe-Camargo12/github-stats/generated/languages.svg" alt="Linguagens mais usadas (inclui organizações e repositórios privados)">
 </p>
+
+<p align="center"><sub>Inclui contribuições em organizações e repositórios privados, com atualização diária.</sub></p>
 
 ---
 
