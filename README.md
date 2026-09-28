@@ -33,39 +33,38 @@ Sou **Desenvolvedor Full Stack +4 anos**, com especialidade em **aplicações we
 
 ---
 
+<h2 align="center">💻 Tecnologias que eu uso</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui,nodejs,nestjs,cs,dotnet,java,python&perline=15" alt="Linguagens e frameworks"><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,azure,gcp,vercel,git,github,figma,postman,wordpress&perline=12" alt="Ferramentas e infraestrutura"><br><br>
+</p>
+
+
+---
+
+## 📂 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🏢 **[Feltec Solutions](https://www.feltecsolutions.com.br)** | Site institucional multilíngue com CMS headless | Next.js · Tailwind · Cosmic |
+
+> 🔒 Parte dos projetos é de clientes e fica em repositórios privados. Fale comigo para uma demonstração.
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/Felipe-Camargo12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Camargo12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Camargo12&layout=compact&langs_count=16&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-    
+
 ---
 
-<h2 align="center">🚀 Tecnologias que eu uso</h2>
-
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="tech-icon">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" class="tech-icon">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" class="tech-icon">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" class="tech-icon">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" class="tech-icon">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" class="tech-icon">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" class="tech-icon">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" class="tech-icon">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" class="tech-icon">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" class="tech-icon">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" class="tech-icon">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" class="tech-icon">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" class="tech-icon">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" class="tech-icon">
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" class="tech-icon">
+<p align="center">
+  <b>💬 Tem um projeto em mente? Vamos conversar.</b><br>
+  <a href="https://www.feltecsolutions.com.br">feltecsolutions.com.br</a>
 </p>
 
-
----
-
-<h2 align="center">📌 Em breve</h2>
-
-<p align="center">Projetos para portfólio estão em desenvolvimento de forma privada...</p>
+<p align="center"><i>Tecnologia que Impulsiona Negócios.</i></p>
