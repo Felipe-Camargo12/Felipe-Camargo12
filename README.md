@@ -60,7 +60,7 @@ Sou **Desenvolvedor Full Stack +4 anos**, com especialidade em **aplicações we
   <img height="170" src="https://raw.githubusercontent.com/Felipe-Camargo12/github-stats/generated/languages.svg" alt="Linguagens mais usadas (inclui organizações e repositórios privados)">
 </p>
 
-<p align="center"><sub>Inclui contribuições em organizações e repositórios privados, com atualização diária.</sub></p>
+<p align="center"><sub>💼 Atuação profissional em projetos privados fora do GitHub também faz parte da minha experiência, portanto os números deste card não representam necessariamente toda a minha atividade profissional.</sub></p>
 
 ---
 
