@@ -12,6 +12,7 @@
 
 <h2 align="center">📫 Contato</h2>
 <p align="center">
+  <a href="https://www.feltecsolutions.com.br"><img src="https://img.shields.io/badge/Feltec_Solutions-Site-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Feltec"></a>
   <a href="https://www.linkedin.com/in/felipe-122-8ca/" class="hover-scale">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -19,6 +20,16 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+---
+
+## 🧭 Sobre mim
+
+Sou **Desenvolvedor Full Stack +4 anos**, com especialidade em **aplicações web com React/Next.js** e apoio na construção de **APIs em sistemas com .NET/C# e Node.js**.
+
+- 💻 No dia a dia, desenvolvo e evoluo sistemas em produção: da interface à integração com o back-end.
+- 🧭 Tenho experiência em **liderança técnica** em projetos: defino arquitetura, organizo escopo e acompanho o time do requisito a entrega.
+- 🎯 Prezo por código limpo, documentação, parceria em equipe, entregas previsíveis e tecnologia que resolve problemas reais.
 
 ---
 
