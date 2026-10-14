@@ -8,7 +8,7 @@
   <img
     src="./Container%20(Banner%20Claro%20LinkedIn%20Felipe).png"
     alt="Banner de apresentação do Felipe"
-    width="85%"
+    width="90%"
   />
 </p>
 
