@@ -5,7 +5,7 @@
 <p align="center"><b>Me inspiro em virtudes como persistência, visão estratégica, liderança e, acima de tudo, no impacto social positivo que podemos gerar através do nosso trabalho.</b></p>
 
 <p align="center">
-  <img src="bannermy.jpeg" alt="Citação de Bill Gates" width="80%" class="hover-scale">
+  <img src="Banner Claro LinkedIn Felipe.png" alt="Banner Apresentação Felipe" width="80%" class="hover-scale">
 </p>
 
 ---
